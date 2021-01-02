@@ -29,3 +29,13 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",鳳凰衛視電影台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://img.tvb.com/inews_web/web/news-icon_512x512.png" group-title="General",TVB新聞台
+https://tvchserver.herokuapp.com/inews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://play-lh.googleusercontent.com/nJjZ39lFUtzCM9IWlXBbKplca063GNSlAg68AiPTNSbcYExPor4KASocaOq8GXaMeWc" group-title="News",Now 332新聞台
+https://tvchserver.herokuapp.com/nowtv?channelCode=332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="Live",Now 331直播台
+https://tvchserver.herokuapp.com/nowtv?channelCode=331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="" group-title="Shop",新城FM 99.7知讯台
+http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="" group-title="Shop",新城FM 104.0財經台
+https://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
